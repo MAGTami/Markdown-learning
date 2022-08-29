@@ -10,3 +10,8 @@
  Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
  ```
  
+- [x] Despertarme
+- [x] Prepare task list
+- [ ] Learn markdown today
+- [ ] don't fell asleep again
+- [ ] train my foot
