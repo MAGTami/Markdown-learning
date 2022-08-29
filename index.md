@@ -4,3 +4,9 @@
 ###### NOW THE 6NUMERAL MARKDOWN HEADER!!!
 
 ![This is Rick](https://cdnb.artstation.com/p/assets/images/images/010/394/459/large/javier-gonzalez-pacheco-rick-y-morty-1-low.jpg?1524177965)
+
+```
+ $ git init
+ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+ ```
+ 
